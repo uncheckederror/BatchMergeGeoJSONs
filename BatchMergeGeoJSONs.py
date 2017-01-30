@@ -1,6 +1,8 @@
 #Batch merge GeoJSONs into a single file.
 #Requires Python 2.7+ to run.
 
+#Based on this GIST: https://gist.github.com/uncheckederror/12f99fca2aaf7db9ad1a6c9563ea1417
+
 #For modifying JSON structured files
 from json import load, JSONEncoder
 
